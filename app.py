@@ -1,6 +1,5 @@
 import streamlit as st
 import random
-import uvicorn
 
 growth_mindset_messages = [
     "Mistakes help you learn!",
